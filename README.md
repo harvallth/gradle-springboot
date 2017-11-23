@@ -1,1 +1,1 @@
-# Spring Boot POC
+# Gradle Spring Boot Application With Hibernate and MySQL DB
